@@ -79,19 +79,19 @@ All lectures and guided tutorials take place at **9h-11h on Fridays's in room GR
 
 | #  | Date       | Title                                                                                  | Lecturer            | Material |
 |----|------------|-----------------------------------------------------------------------------------------|----------------------|----------|
-| 1  | Fri Sep 11 | Introduction to Python : first steps                                                   | Michael Graupner     |          |
-| 2  | Fri Sep 18 | Time series : basic operations                                                         | Michael Graupner     |          |
-| 3  | Fri Sep 25 | Wrangling Data : loading, understanding and visualizing                                | Michael Graupner     |          |
-| 4  | Fri Oct 2  | Wrangling spike trains : basic analysis, raster plot, PSTH, Poisson spike trains       | Tadeusz Kononowicz   |          |
-| 5  | Fri Oct 9  | Regression analysis : correlation analysis, logisitic regression, nonlinear regression | Tadeusz Kononowicz   |          |
-| 6  | Fri Oct 16 | Bioinformatics and Systems biology I                                                   | Karine  Audouze      |          |
-| 7  | Fri Oct 23 | Bioinformatics and Systems biology II                                                  | Karine  Audouze      |          |
+| 1  | Fri Sep 11 | Introduction to Python : first steps                                                   | Michael Graupner     | Lecture L01, Tutorial T01, Homework E01, Deepnote Link |
+| 2  | Fri Sep 18 | Time series : basic operations                                                         | Michael Graupner     | Lecture L02, Tutorial T02, Homework E02, Deepnote Link |
+| 3  | Fri Sep 25 | Wrangling Data : loading, understanding and visualizing                                | Michael Graupner     | Lecture L03, Tutorial T03, Homework E03, Deepnote Link |
+| 4  | Fri Oct 2  | Wrangling spike trains : basic analysis, raster plot, PSTH, Poisson spike trains       | Tadeusz Kononowicz   | Lecture L04, Tutorial T04, Homework E04, Deepnote Link |
+| 5  | Fri Oct 9  | Regression analysis : correlation analysis, logisitic regression, nonlinear regression | Tadeusz Kononowicz   | Lecture L05, Tutorial T05, Homework E05, Deepnote Link |
+| 6  | Fri Oct 16 | Bioinformatics and Systems biology I                                                   | Karine  Audouze      | Lecture L06, Tutorial T06, Homework E06, Deepnote Link |
+| 7  | Fri Oct 23 | Bioinformatics and Systems biology II                                                  | Karine  Audouze      | Lecture L07, Tutorial T07, Homework E07, Deepnote Link |
 |    | Fri Oct 30 | no course                                                                              |                      |          |
-| 8  | Fri Nov 6  | Classification and clustering : SVM, KMeans estimate                                   | Heike Stein          |          |
-| 9  | Fri Nov 13 | Single neuron simulations with Brian                                                   | Marcel Stimberg      |          |
-| 10 | Fri Nov 20 | Spiking neural network simulations with Brian                                          | Marcel Stimberg      |          |
-| 11 | Fri Nov 27 | End-of-Course projects presentation; Open Tutorial                                     | Michael Graupner     |          |
-| 12 | Fri Dec 4  | Spectral analysis of analog signals : Fourier transform, Spectrogram, Signal Filtering | Michael Graupner     |          |
+| 8  | Fri Nov 6  | Classification and clustering : SVM, KMeans estimate                                   | Heike Stein          | Lecture L08, Tutorial T08, Homework E08, Deepnote Link |
+| 9  | Fri Nov 13 | Single neuron simulations with Brian                                                   | Marcel Stimberg      | Lecture L09, Tutorial T09, Homework E09, Deepnote Link |
+| 10 | Fri Nov 20 | Spiking neural network simulations with Brian                                          | Marcel Stimberg      | Lecture L10, Tutorial T10, Homework E10, Deepnote Link |
+| 11 | Fri Nov 27 | End-of-Course projects presentation; Open Tutorial                                     | Michael Graupner     | Lecture L11, Tutorial T11, Homework E11, Deepnote Link |
+| 12 | Fri Dec 4  | Spectral analysis of analog signals : Fourier transform, Spectrogram, Signal Filtering | Michael Graupner     | Lecture L12, Tutorial T12, Homework E12, Deepnote Link |
 
 
 
