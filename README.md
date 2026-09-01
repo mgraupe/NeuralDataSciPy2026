@@ -98,7 +98,7 @@ All lectures and guided tutorials take place at **9h-11h on Fridays's in room DU
 ### Course Evaluation
 
 **Continuous control (50 % of the final mark) :** The students receive small **homework assignments** which are an extension of the 
-in-course tutorial. The subject is related to the last course. The homeworks assignments with the respective Notebook file are posted in the **moodle** of the course. The results have **to be submitted through the moodle by Friday 9am** before the next course (e.g., the assignments of the course on Friday Sep 26th have to be submitted by Friday Oct 3rd 9am). Practically, use the provided Jupyter Notebook (see table above or the moodle), add your edits to this file, and submit the modified Jupyter Notebook through the moodle.
+in-course tutorial. The subject is related to the last course. The homeworks assignments with the respective Notebook file are posted in the **moodle** of the course. The results have **to be submitted through the moodle by Friday 9am** before the next course (e.g., the assignments of the course on Friday Sep 25th have to be submitted by Friday Oct 2nd 9am). Practically, use the provided Jupyter Notebook (see table above or the moodle), add your edits to this file, and submit the modified Jupyter Notebook through the moodle.
 
 Some homework assignments will consist in completing interactive, online assignments on [DataCamp](https://www.datacamp.com/).
 
