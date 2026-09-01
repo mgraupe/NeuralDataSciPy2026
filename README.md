@@ -137,7 +137,7 @@ The dominant teaching language of the course with be English, while the lecturer
 
 ### Course Organizers and Teachers  
 
-The course is organized by [Michael Graupner](mailto:michael.graupner@parisdescartes.fr). Lectures will furthermore be taught by [Karine Audouze](mailto:audouze.p7@gmail.com), [Heike Stein](mailto:heike.stein@isir.upmc.fr), [Tadeusz Kononowicz](mailto:tadeusz.kononowicz@cnrs.fr) and  [Marcel Stimberg](mailto:marcel.stimberg@inserm.fr). All questions regarding access to your university account can be addressed to  [Luc Tamisier](mailto:luc.tamisier@parisdescartes.fr) or [Benoit Greff](mailto:benoit.greff@parisdescartes.fr).
+The course is organized by [Michael Graupner](mailto:michael.graupner@parisdescartes.fr). Lectures will furthermore be taught by [Karine Audouze](mailto:audouze.p7@gmail.com), [Heike Stein](mailto:heike.stein@isir.upmc.fr), [Tadeusz Kononowicz](mailto:tadeusz.kononowicz@cnrs.fr) and  [Marcel Stimberg](mailto:marcel.stimberg@sorbonne-universite.fr). All questions regarding access to your university account can be addressed to  [Luc Tamisier](mailto:luc.tamisier@parisdescartes.fr) or [Benoit Greff](mailto:benoit.greff@parisdescartes.fr).
 
 Please direct all basic inquiries to [Michael Graupner](mailto:michael.graupner@parisdescartes.fr) by email or pass by his office : 
 
