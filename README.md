@@ -72,7 +72,7 @@ It can be downloaded as pdf [here](miscFiles/NeuralDataSciPy_cheat-sheet.pdf).
 Each course lasts for 2 hours. It consists of approximately 45 min lecture introducing the general motivation, scientific background and
 analysis principles. The lecture is followed by an 1h 10 min long guided tutorial during which the programming/analysis is performed by the students based on a pre-prepared [Jupyter Notebook](https://jupyter.org). Students can follow the teachers tutorial progress in real-time on [Deepnote](https://deepnote.com/project/Neural-Data-Science-with-Python-Tutorial-DteRzlWZSbuTNmXj3nqDVA). Lecture and tutorial are separated by a short 5 min break. 
 
-All lectures and guided tutorials take place at **9h-11h on Fridays's in room DURKHEIM, left staircase from the main entrance hall to access lecture halls Delmas or balcon Binet, second floor (access code C2164), 45 rue des Saints-Pères** between **September 11th and Dec 4th, 2026.**
+All lectures and guided tutorials take place at **9h-11h on Fridays's in room GRIGNARD F, 4th floor, 45 rue des Saints-Pères** between **September 11th and Dec 4th, 2026.**
 
 
 **Lecture Overview**
