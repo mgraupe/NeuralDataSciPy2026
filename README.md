@@ -137,7 +137,7 @@ The dominant teaching language of the course with be English, while the lecturer
 
 ### Course Organizers and Teachers  
 
-The course is organized by [Michael Graupner](mailto:michael.graupner@parisdescartes.fr). Lectures will furthermore be taught by [Karine Audouze](mailto:audouze.p7@gmail.com), [Heike Stein](mailto:heike.stein@isir.upmc.fr), [Tadeusz Kononowicz](mailto:tadeusz.kononowicz@cnrs.fr) and  [Marcel Stimberg](mailto:marcel.stimberg@sorbonne-universite.fr). All questions regarding access to your university account can be addressed to  [Luc Tamisier](mailto:luc.tamisier@parisdescartes.fr) or [Benoit Greff](mailto:benoit.greff@parisdescartes.fr).
+The course is organized by [Michael Graupner](mailto:michael.graupner@parisdescartes.fr). Lectures will furthermore be taught by [Karine Audouze](mailto:karine.audouze@u-pariscite.fr), [Heike Stein](mailto:heike.stein@isir.upmc.fr), [Tadeusz Kononowicz](mailto:tadeusz.kononowicz@cnrs.fr) and  [Marcel Stimberg](mailto:marcel.stimberg@sorbonne-universite.fr). All questions regarding access to your university account can be addressed to  [Luc Tamisier](mailto:luc.tamisier@parisdescartes.fr) or [Benoit Greff](mailto:benoit.greff@parisdescartes.fr).
 
 Please direct all basic inquiries to [Michael Graupner](mailto:michael.graupner@parisdescartes.fr) by email or pass by his office : 
 
@@ -153,7 +153,7 @@ Please direct all basic inquiries to [Michael Graupner](mailto:michael.graupner@
 
 | Picture                                                             | Name                     | Email                                                                | Address                                                                                                       | 
 |---------------------------------------------------------------------|--------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------| 
-| <img src="miscFiles/karine.jpg" width="100px" />                    | Karine Audouze           | [audouze.p7@gmail.com](mailto:audouze.p7@gmail.com)                  | Université Paris Cité, Systems Toxicology Group, 45 rue des Saints-Pères, 75006 Paris                         |
+| <img src="miscFiles/karine.jpg" width="100px" />                    | Karine Audouze           | [karine.audouze@u-pariscite.fr](mailto:karine.audouze@u-pariscite.fr)                  | Université Paris Cité, Systems Toxicology Group, 45 rue des Saints-Pères, 75006 Paris                         |
 | <img src="miscFiles/heike.jpg" width="100px" />                     | Heike Stein              | [heike.stein@isir.upmc.fr](mailto:heike.stein@isir.upmc.fr)                  | ISIR – Institut des Systèmes Intelligents et de Robotique, Sorbonne Université, 4, Place Jussieu, 75005 Paris |
 | <img src="miscFiles/tadeusz.jpg" width="100px" />                   | Tadeusz Kononowicz | [tadeusz.kononowicz@cnrs.fr](mailto:tadeusz.kononowicz@cnrs.fr)                  | NeuroPSI, CNRS Université Paris-Saclay, 151 route de la Rotonde, 91400 Saclay                                 |
 | <img src="miscFiles/marcel.jpg" width="100px" />                    | Marcel Stimberg          | [marcel.stimberg@sorbonne-universite.fr](mailto:marcel.stimberg@sorbonne-universite.fr)        | ISIR – Institut des Systèmes Intelligents et de Robotique, Sorbonne Université, 4, Place Jussieu, 75005 Paris              |
