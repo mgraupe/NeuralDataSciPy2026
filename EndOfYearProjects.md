@@ -1,4 +1,4 @@
-# 2025 Course : Neural Data Science with Python 
+# 2026 Course : Neural Data Science with Python 
 
 ![Logo](miscFiles/course-logo.png "Course Logo")
 
@@ -206,8 +206,16 @@ The aim of the project is to establish the preferred head direction of presubicu
 <td valign="top">literature searches, visualization of data</td>
 <td valign="top"><a href="mailto:karine.audouze@parisdescartes.fr">Karine Audouze</a></td>
 </tr>
+<!--- ======================== -->
+<td valign="top">18</td>
+<td valign="top"> <b>Testing classifier performance on clothing pictures</b></td>
+<td valign="top"> Use the <a href="https://github.com/zalandoresearch/fashion-mnist">fashionMNIST database</a> of clothing artciles and test the performance of different classifiers on how well they can learn to identify clothing categories (T-shirt, coat, pullover, etc). The dataset has a training set of 60,000 examples, and a test set of 10,000 examples. The images have been size-normalized and centered in a fixed-size image.
 
-
+The images from the training dataset would be the input for the classifier and the know category of the article would be used to train the classfier. The performance of the classifier is then tested on the test set of images which have never been shown to the classifier. Compare the error rate (the fraction of test dataset images which were not correctly classified) for SVM classifier with different kernel functions (linear, polynomial). 
+</td>
+<td valign="top">implementing different classifiers and testing performance : SVM with different kernels (linear and nonlinear); reading and treating image data</td>
+<td valign="top"><a href="mailto:michael.graupner@u-paris.fr">Michael Graupner</a></td>
+</tr>
 
 </table>
 
